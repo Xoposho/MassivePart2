@@ -62,3 +62,5 @@ public class Massive2 {
         return arr;
     }
 }
+
+//by Igor
